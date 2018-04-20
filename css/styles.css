@@ -1,3 +1,35 @@
 .intro{
-  background-color: 
+  background-color: brown;
+}
+.center{
+  align: center;
+}
+.center{
+  font-style: oblique;
+  font-size: 15px;
+}
+.introduction{
+  font-style: italic;
+}
+p.intro{
+  font-size: 8px;
+  font-style: italic;
+  font-family: sans-serif;
+  font-stretch: semi-expanded;
+}
+.align{
+  align-items: center;
+}
+.image{
+  height: 160px;
+  width: 1680px;
+}
+.background-color{
+  background-color: pink;
+}
+.main{
+  background-color: blue;
+}
+p.gym.jpg{
+  width: 1682px
 }
